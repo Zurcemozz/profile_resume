@@ -2,7 +2,7 @@ import React from 'react'
 import { FaBars, FaFacebook, FaGithub, FaTimes } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { Link } from 'react-router-dom'
-import Logo from '../assets/Logo.png'
+import Logo from '../assets/LogoColored.png'
 import { useStateContext } from '../context/ContextProvider'
 
 const Navbar = () => {
@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-neutral-800 text-gray-300">
       <div>
-        <img src={Logo} alth="Logo Image" style={{ width: '50px' }} />
+        <img src={Logo} alth="Logo Image" style={{ width: '150px' }} />
       </div>
 
       {/* Menu */}
