@@ -17,12 +17,10 @@ const About = () => {
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
-              ratione doloribus, minus harum quod natus sit, eos maiores
-              corrupti magni exercitationem, sunt voluptates odio aperiam quae
-              eaque fugit! Cum harum sunt repellendus, repudiandae eius
-              laboriosam totam veniam vero eligendi obcaecati nam id repellat!
-              Velit, inventore numquam est quia dolores ipsum!
+              I am now a third-year computer science student that is primarily
+              interested in web development. I primarily utilize ReactJs
+              technology to create various websites for fun and educational
+              purpose.
             </p>
           </div>
         </div>

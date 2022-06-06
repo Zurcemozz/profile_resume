@@ -2,6 +2,7 @@ import React from 'react'
 import CSS from '../assets/css.png'
 import Github from '../assets/github.png'
 import HTML from '../assets/html.png'
+import Figma from '../assets/icons8-figma.svg'
 import JavaScript from '../assets/javascript.png'
 import Mongo from '../assets/mongo.png'
 import Node from '../assets/node.png'
@@ -45,6 +46,10 @@ const Skills = () => {
           <div className="shadow-md shadow-neutral-900 hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Tailwind} alt="" />
             <p>Tailwind</p>
+          </div>
+          <div className="shadow-md shadow-neutral-900 hover:scale-110 duration-500">
+            <img className="w-20 mx-auto" src={Figma} alt="" />
+            <p>Figma</p>
           </div>
           <div className="shadow-md shadow-neutral-900 hover:scale-110 duration-500">
             <img className="w-20 mx-auto" src={Mongo} alt="" />
